@@ -52,12 +52,9 @@
 
 ## About
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
+This project contains a number of examples demonstrating how to use the OpenStreetMap dataset hosted in Google BigQuery.
+
+[Here's the dataset](https://console.cloud.google.com/marketplace/product/openstreetmap/geo-openstreetmap). You can reference it in the BigQuery console as `bigquery-public-data.geo_openstreetmap`.
 
 <details>
 <summary>Screenshots</summary>
@@ -74,30 +71,17 @@
 
 ### Built With
 
-> **[?]**
-> Please provide the technologies that are used in the project.
-
-## Getting Started
-
-### Prerequisites
-
-> **[?]**
-> What are the project requirements/dependencies?
-
-### Installation
-
-> **[?]**
-> Describe how to install and get started with the project.
+If you're interested in how the dataset itself was built, check out the [geo-openstreetmmap repo](https://github.com/gcp-pdp/geo-openstreetmap).
 
 ## Usage
 
-> **[?]**
-> How does one go about using it?
-> Provide various use cases and code examples here.
+### Prerequisites
+
+You'll want to understand the table schema, and how the tables were derived from the primary data. TODO
 
 ## Roadmap
 
-See the [open issues](https://github.com/gcp-pdp/awesome-bigquery-openstreetmap/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/gcp-pdp/awesome-bigquery-openstreetmap/issues) for a list of proposed example queries to be created (and known issues).
 
 - [Top Feature Requests](https://github.com/gcp-pdp/awesome-bigquery-openstreetmap/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
 - [Top Bugs](https://github.com/gcp-pdp/awesome-bigquery-openstreetmap/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
@@ -105,13 +89,9 @@ See the [open issues](https://github.com/gcp-pdp/awesome-bigquery-openstreetmap/
 
 ## Support
 
-> **[?]**
-> Provide additional ways to contact the project maintainer/maintainers.
-
 Reach out to the maintainer at one of the following places:
 
 - [GitHub issues](https://github.com/gcp-pdp/awesome-bigquery-openstreetmap/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/gcp-pdp)
 
 ## Project assistance
 
@@ -127,12 +107,11 @@ Together, we can make Awesome OpenStreetMap BigQuery **better**!
 
 First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
 
-
 Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you for being involved!
 
 ## Authors & contributors
 
-The original setup of this repository is by [Allen Day](https://github.com/gcp-pdp).
+The original setup of this repository is by [Allen Day](https://github.com/allenday).
 
 For a full list of all authors and contributors, see [the contributors page](https://github.com/gcp-pdp/awesome-bigquery-openstreetmap/contributors).
 
@@ -151,6 +130,4 @@ See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgements
 
-> **[?]**
-> If your work was funded by any organization or institution, acknowledge their support here.
-> In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
+Development and maintenance of this repo is funded by Google Cloud.
