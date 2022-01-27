@@ -61,9 +61,9 @@ This project contains a number of examples demonstrating how to use the OpenStre
 > **[?]**
 > Please provide your screenshots here.
 
-|                               Home Page                               |                               Login Page                               |
-| :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
+| Distance to nearest medical facility (Singapore)                                                            | Etc                                                                    |
+| :---------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| <img src="img/hospital_distance.png" title="Distance to nearest medical facility (Singapore)" width="100%"> | <img src="img/screenshot.png" title="Etc" width="100%">                |
 
 </details>
 
@@ -71,7 +71,7 @@ This project contains a number of examples demonstrating how to use the OpenStre
 
 If you're interested in how the dataset itself was built, check out the [geo-openstreetmmap repo](https://github.com/gcp-pdp/geo-openstreetmap).
 
-## Usage
+## Queries
 
 ### Prerequisites
 
