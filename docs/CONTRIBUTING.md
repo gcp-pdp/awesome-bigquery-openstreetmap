@@ -14,14 +14,14 @@ To set up a development environment, please follow these steps:
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/gcp-pdp/awesome-openstreetmap-bigquery
+   git clone https://github.com/gcp-pdp/awesome-bigquery-openstreetmap
    ```
 
 2. TODO
 
 ## Issues and feature requests
 
-You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? You can help us by [submitting an issue on GitHub](https://github.com/gcp-pdp/awesome-openstreetmap-bigquery/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
+You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? You can help us by [submitting an issue on GitHub](https://github.com/gcp-pdp/awesome-bigquery-openstreetmap/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
 
 Please try to create bug reports that are:
 
@@ -35,10 +35,10 @@ Please try to create bug reports that are:
 ### How to submit a Pull Request
 
 1. Search our repository for open or closed
-   [Pull Requests](https://github.com/gcp-pdp/awesome-openstreetmap-bigquery/pulls)
+   [Pull Requests](https://github.com/gcp-pdp/awesome-bigquery-openstreetmap/pulls)
    that relate to your submission. You don't want to duplicate effort.
 2. Fork the project
 3. Create your feature branch (`git checkout -b feat/amazing_feature`)
 4. Commit your changes (`git commit -m 'feat: add amazing_feature'`) Awesome OpenStreetMap BigQuery uses [conventional commits](https://www.conventionalcommits.org), so please follow the specification in your commit messages.
 5. Push to the branch (`git push origin feat/amazing_feature`)
-6. [Open a Pull Request](https://github.com/gcp-pdp/awesome-openstreetmap-bigquery/compare?expand=1)
+6. [Open a Pull Request](https://github.com/gcp-pdp/awesome-bigquery-openstreetmap/compare?expand=1)
