@@ -58,6 +58,10 @@ This project contains a number of examples demonstrating how to use the OpenStre
 <summary>Screenshots</summary>
 <br>
 
+<img src="img/hospital_distances.png" title="Distance to nearest medical facility (Singapore)"/>
+[hospital_distances.sql](sql/hospital_distances.sql)
+
+
 | Distance to nearest medical facility (Singapore)                                                             | Etc                                                                    |
 | :----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
 | <img src="img/hospital_distances.png" title="Distance to nearest medical facility (Singapore)" width="100%"> | <img src="img/screenshot.png" title="Etc" width="100%">                |
