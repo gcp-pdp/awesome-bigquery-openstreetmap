@@ -1,5 +1,5 @@
 WITH country_name AS (
-  SELECT 'Germany' AS value
+  SELECT 'Singapore' AS value
 -- 'United States of America' AS value
 ),
 last_updated AS (
@@ -51,11 +51,12 @@ distances AS (
       INNER JOIN last_updated ON pop.last_updated = last_updated.value  
       CROSS JOIN hospitals
   WHERE pop.population > 0
-  GROUP BYgeo_id, population
+  GROUP BY geo_id, population
 )
 
 SELECT
   pd.distance,
+  SUM(pd.population) AS population,
   SUM(pd.population)/p.sum_population AS pct_population
 FROM
   distances pd
