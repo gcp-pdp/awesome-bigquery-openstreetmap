@@ -54,13 +54,9 @@ This project contains a number of examples demonstrating how to use the OpenStre
 
 [Here's the dataset](https://console.cloud.google.com/marketplace/product/openstreetmap/geo-openstreetmap). You can reference it in the BigQuery console as `bigquery-public-data.geo_openstreetmap`.
 
-<details>
+<details open="open">
 <summary>Screenshots</summary>
 <br>
-
-<img src="img/hospital_distances.png" title="Distance to nearest medical facility (Singapore)"/>
-[hospital_distances.sql](sql/hospital_distances.sql)
-
 
 | Distance to nearest medical facility (Singapore)                                                             | Etc                                                                    |
 | :----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
