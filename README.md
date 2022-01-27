@@ -33,10 +33,8 @@
 
 - [About](#about)
   - [Built With](#built-with)
-- [Getting Started](#getting-started)
+- [Queries](#queries)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Support](#support)
 - [Project assistance](#project-assistance)
