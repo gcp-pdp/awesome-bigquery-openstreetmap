@@ -61,9 +61,9 @@ This project contains a number of examples demonstrating how to use the OpenStre
 > **[?]**
 > Please provide your screenshots here.
 
-| Distance to nearest medical facility (Singapore)                                                            | Etc                                                                    |
-| :---------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="img/hospital_distance.png" title="Distance to nearest medical facility (Singapore)" width="100%"> | <img src="img/screenshot.png" title="Etc" width="100%">                |
+| Distance to nearest medical facility (Singapore)                                                             | Etc                                                                    |
+| :----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| <img src="img/hospital_distances.png" title="Distance to nearest medical facility (Singapore)" width="100%"> | <img src="img/screenshot.png" title="Etc" width="100%">                |
 
 </details>
 
